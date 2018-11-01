@@ -1,0 +1,13 @@
+{
+  "name": "snipp",
+  "version": "1.0.0",
+  "preferGlobal": true,
+  "bin": {
+      "snipp": "./bin/index.js"
+  },
+  "dependencies": {
+    "colors": "^1.3.2",
+    "commander": "^2.19.0",
+    "inquirer": "^6.2.0"
+  }
+}
